@@ -1,3 +1,4 @@
 [submodule "projectB"]
 	path = projectB
 	url = git@github.com:NicoleGrondinAlayacare/projectB.git
+	branch = stable
