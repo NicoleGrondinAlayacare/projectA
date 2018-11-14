@@ -2,3 +2,6 @@
 	path = projectB
 	url = git@github.com:NicoleGrondinAlayacare/projectB.git
 	branch = stable
+[submodule "projectC"]
+	path = projectC
+	url = git@github.com:NicoleGrondinAlayacare/projectC.git
